@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DBN Fruits - Seasonal Freshness",
+  "description": "A premium online store for local seasonal fruits, starting with the king of fruits - Mango. Experience smooth scroll-based reveals and farm-to-table freshness.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
